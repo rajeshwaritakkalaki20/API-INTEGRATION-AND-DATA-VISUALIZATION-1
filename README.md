@@ -124,6 +124,32 @@
 
   with a clear modular architecture, documented data contracts, and a polished UI, this project serves as a robust template for any team that needs to convert raw, multi-source API feeds into actionable,           visually rich insights—scaling smoothly from a hack-week prototype to an enterprise-grade analytics platform.
 
+#Outputs
+
+![Image](https://github.com/user-attachments/assets/a693c59d-4952-4ce9-96c8-964c1e1b8c94)
+
+![Image](https://github.com/user-attachments/assets/0498e187-792f-407e-b1c5-d7a3d4458da2)
+
+![Image](https://github.com/user-attachments/assets/af03797b-b6c5-424e-8c39-a89fb37ac776)
+
+![Image](https://github.com/user-attachments/assets/68e3c58c-3acf-47fe-9948-d2ca433d517e)
+
+![Image](https://github.com/user-attachments/assets/f17221d5-a9f2-42df-9e06-c5368f5f6bc4)
+
+![Image](https://github.com/user-attachments/assets/0e1891d2-cc3e-4702-8530-0c37a31d24b1)
+
+![Image](https://github.com/user-attachments/assets/a0d5a92f-979a-451f-83b4-d6d4d82772b7)
+
+![Image](https://github.com/user-attachments/assets/9ed32ca0-7556-4bce-949f-2d609b16623e)
+
+![Image](https://github.com/user-attachments/assets/00710206-c702-46f4-869f-118e1006688b)
+
+![Image](https://github.com/user-attachments/assets/f39f1ba8-49b7-4990-ae31-49ee1a6c8ff5)
+
+![Image](https://github.com/user-attachments/assets/2a772b33-ade1-4e94-a56c-25beee7285d3)
+
+![Image](https://github.com/user-attachments/assets/824c9b1b-0b1f-4b5c-8685-53f504ef7dac)
+
 
 
 
